@@ -1,2 +1,2 @@
 # CSS-Hacks
- Big impacts made with simple css hacks that I love!
+ Big impacts made with simple css hacks that I love
